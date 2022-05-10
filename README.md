@@ -1,4 +1,7 @@
 ## 👋 Hola! Soy Diego, Full Stack Developer!
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dmaceda)
+ ![Github](https://img.shields.io/github/followers/dmaceda?label=Follow&style=social)
+
 </br>
 <div align="start">
   <a href="https://github.com/dmaceda">
@@ -30,3 +33,6 @@
   <a href="https://www.linkedin.com/in/dmaceda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </p>
+  
+
+
