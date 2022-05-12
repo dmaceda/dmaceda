@@ -1,7 +1,12 @@
 ## 👋 Hola! Soy Diego, Full Stack Developer!
+<div>
+<img height="150em" src="https://user-images.githubusercontent.com/99127823/167989495-c02e1216-5dfd-4872-9828-a029d27fa0d3.png"/>
+ </div>
+ </br>
+ 
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dmaceda)
  ![Github](https://img.shields.io/github/followers/dmaceda?label=Follow&style=social)
-
+ 
 </br>
 <div align="start">
   <a href="https://github.com/dmaceda">
