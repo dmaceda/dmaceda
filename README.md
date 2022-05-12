@@ -1,4 +1,9 @@
+<div align="center">
+</br>
+
+
 ## 👋 Hola! Soy Diego, Full Stack Developer!
+</br>
 <div>
 <img height="150em" src="https://user-images.githubusercontent.com/99127823/167989495-c02e1216-5dfd-4872-9828-a029d27fa0d3.png"/>
  </div>
@@ -8,7 +13,7 @@
  ![Github](https://img.shields.io/github/followers/dmaceda?label=Follow&style=social)
  
 </br>
-<div align="start">
+<div >
   <a href="https://github.com/dmaceda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmaceda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
@@ -38,6 +43,4 @@
   <a href="https://www.linkedin.com/in/dmaceda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </p>
-  
-
-
+  </div>
