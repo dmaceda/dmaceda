@@ -3,7 +3,8 @@
 </br>
 
 
-## 👋 Hi! My name is Diego.
+## About me:
+👋 Hi! My name is Diego. 
 I am Junior Full Stack Developer!
 
 
