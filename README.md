@@ -22,6 +22,7 @@ I am Junior Full Stack Developer!
   <a href="https://github.com/dmaceda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmaceda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmaceda&" alt="dmaceda" /></p>
   
 ## 🧰 Languages and Tools:
 <p align="center">
