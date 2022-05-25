@@ -56,7 +56,7 @@ I am Junior Full Stack Developer!
   <div>
  <br/>
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dmaceda&theme=redical)](https://github.com/dmaceda/github-readme-activity-graph)
+  [![Diego github activity graph](https://activity-graph.herokuapp.com/graph?username=dmaceda&theme=redical)](https://github.com/dmaceda/github-readme-activity-graph)
  </div>
   </div>
   
