@@ -10,7 +10,7 @@ I am Junior Full Stack Developer!
 
 </br>
 <div>
-<img height="150em" src="https://user-images.githubusercontent.com/99127823/167989495-c02e1216-5dfd-4872-9828-a029d27fa0d3.png"/>
+<img height="150em" src="https://github.com/dmaceda/dmaceda/blob/master/logo_tipo.png"/>
  </div>
  </br>
  
