@@ -5,7 +5,7 @@
 
 ## About me:
 👋 Hi! My name is Diego. 
-I am Junior Full Stack Developer & UX Designer!
+I'm Junior Full Stack Developer & UX Designer!
 
 
 </br>
