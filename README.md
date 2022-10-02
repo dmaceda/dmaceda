@@ -63,3 +63,16 @@ I am Junior Full Stack Developer!
 
 
 
+<img src= 'https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudio'>
+
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white ">
+
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF"> <img src='https://img.shields.io/badge/-Mongoose-EA0D0D?logo=mongoose'> 
+ <img src='https://img.shields.io/badge/-MongoDB-11A513?logo=mongodb&logoColor=FFF'>
+
+<img src='https://img.shields.io/badge/-Github-000?logo=github'> <img src='https://img.shields.io/badge/-Git-orange?logo=git&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Railway-561651?logo=railway&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'>
+
+
+
